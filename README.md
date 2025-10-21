@@ -154,7 +154,7 @@ Let's continue spreading the freedom that makes open-source special.
 
 ### 📄 Full License Text
 
-For the complete license terms, see the **[LICENSE](link)** file.
+For the complete license terms, see the **[LICENSE](https://github.com/amithhhh/getgroup/blob/main/LICENSE)** file.
 
 **"Software freedom is the foundation of a free society."**
 
