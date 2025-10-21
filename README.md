@@ -59,6 +59,7 @@ To compile from source, run:
 
 ```bash
 gcc getgroups.c -o getgroups
+```
 
 
 # 📜 Project License & Philosophy
