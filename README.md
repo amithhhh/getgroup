@@ -59,3 +59,97 @@ To compile from source, run:
 
 ```bash
 gcc getgroups.c -o getgroups
+
+
+# 📜 Project License & Philosophy
+
+<div align="center">
+
+![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red.svg)
+![FOSS](https://img.shields.io/badge/Free%20Software-✓-green.svg)
+
+**Freedom to use, study, modify, and share**
+
+</div>
+
+## 🛡️ License Information
+
+This project is licensed under the **GNU General Public License version 3 (GPLv3)**.
+
+### 📋 What This Means For You
+
+| Freedom | Description |
+|---------|-------------|
+| **🎯 Use** | Use this software for any purpose - personal, educational, or commercial |
+| **🔍 Study** | Examine the source code to understand how it works |
+| **⚡ Modify** | Adapt and change the software to meet your needs |
+| **📤 Share** | Distribute original or modified versions to others |
+
+### ⚖️ Obligations Under GPLv3
+
+- **Same License**: Any redistribution must remain under GPLv3
+- **License Preservation**: Include this license information with all copies
+- **Source Availability**: Provide access to source code for derivatives
+- **Freedom Protection**: Ensure software and derivatives remain free for everyone
+
+## 🌟 Why GPLv3?
+
+> "I chose GPLv3 because it aligns with my belief in software freedom."
+
+This license ensures that:
+
+- 🛡️ **Software remains open and accessible to all**
+- 🤝 **Contributors share improvements back to the community**
+- 🔄 **The principles of software freedom continue to guide new generations**
+
+## 🎯 Project Philosophy
+
+<div align="center">
+
+*"Free software is a matter of liberty, not price."*  
+— **Richard Stallman**
+
+</div>
+
+### 🙏 Acknowledgments
+
+| Contributor | Impact |
+|-------------|--------|
+| **Richard Stallman** | For starting the Free Software Foundation and defining the philosophy of software freedom |
+| **Linus Torvalds** | For creating Linux and demonstrating how collaboration can change the world |
+| **Every FOSS Developer** | For believing in sharing knowledge freely and building a better digital future |
+
+## 👨‍💻 About the Author
+
+**Amith E.K.**  
+*Beginner in Free and Open Source Contribution*
+
+> **"Working hard to make the FOSS world beautiful."**
+
+## 💌 Get Involved
+
+<div align="center">
+
+### 📧 Let's Connect!
+
+**Feel free to share feedback, suggestions, or improvements!**
+
+Let's continue spreading the freedom that makes open-source special.
+
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)]()
+[![Feedback Welcome](https://img.shields.io/badge/Feedback-Encouraged-yellow.svg)]()
+
+</div>
+
+---
+
+<div align="center">
+
+### 📄 Full License Text
+
+For the complete license terms, see the **[LICENSE](link)** file.
+
+**"Software freedom is the foundation of a free society."**
+
+</div>
