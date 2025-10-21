@@ -59,7 +59,12 @@ To compile from source, run:
 
 ```bash
 gcc getgroups.c -o getgroups
+./getgroups
+./getgroups root
+sudo mv getgoups /usr/bin #to make it systemwide
+getgroups root
 ```
+
 
 
 # 📜 Project License & Philosophy
